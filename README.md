@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @euclidia
 - 👀 I love witnessing how data changes lives, makes everyday work and life easier and better. 
 - 💞️ I'm absolutely convinced that data literacy is an absolute must-know capability of every single modern person. 
-- 🌱 I’m currently learning Data Analytics through Udacity Nanodegree
 
 <!---
 - 💞️ I’m looking to collaborate on ...
